@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_ace10896d4a745c802758ec7cbad3027a0c7d8a9.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/httpcore-4.3.3_f154877a5593e82173488bf4296ae4d2b73bd9df.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_e1a65ed3cb6d8318d18543071af9579cb7d49b80.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_9b8f5eaf1a0700d0afe9a67e5d5ecd80718c14ea.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_86cac9fe0db4c4081d4cc666086054a1e70aa1bb.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/libs/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/httpmime-4.3.6_021d7450658a1ebf3d8d4709a2165b25609c4452.jar" />
+    </item>
+    <item
+        jar="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/clementng/AndroidStudioProjects/CameraPhotoVideoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_7e9e308e2b0f79a734b732c6c0c11f23b2a22d5a.jar" />
+    </item>
+
+</items>
